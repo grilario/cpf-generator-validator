@@ -1,0 +1,14 @@
+{
+  "name": "cpf-generator-and-validator",
+  "version": "1.0.0",
+  "description": "CPF generator and validator",
+  "main": "src/index.ts",
+  "author": "Grilario",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^0.23.4"
+  }
+}
