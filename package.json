@@ -6,9 +6,12 @@
   "author": "Grilario",
   "license": "MIT",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "dev": "vite",
+    "build": "vite build"
   },
   "devDependencies": {
+    "vite": "^3.1.4",
     "vitest": "^0.23.4"
   }
 }
